@@ -1,0 +1,38 @@
+    body {
+        margin: auto;
+        background-image: url('/background.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+    .font {
+        font-family: "Sofia", sans-serif;
+        color: rgb(230, 42, 18);
+        display: inline;
+    }
+    
+    #tab {
+        height: 60px;
+    }
+    
+    #image {
+        height: 400px;
+        width: 40%;
+        float: left;
+        position: absolute;
+        margin-right: 40%;
+    }
+    
+    #details {
+        height: 400px;
+        margin-left: 40%;
+    }
+    
+    #skills {
+        height: 500px;
+        background-image: url('/istockphoto-1325680818-170667a.jpg');
+    }
+    
+    a {
+        text-decoration: none;
+    }
