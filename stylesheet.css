@@ -1,6 +1,6 @@
     body {
         margin: auto;
-        background-image: url('/background.jpg');
+        background-image: url('background.jpg');
         background-repeat: no-repeat;
         background-size: cover;
     }
@@ -30,7 +30,7 @@
     
     #skills {
         height: 500px;
-        background-image: url('/istockphoto-1325680818-170667a.jpg');
+        background-image: url('istockphoto-1325680818-170667a.jpg');
     }
     
     a {
